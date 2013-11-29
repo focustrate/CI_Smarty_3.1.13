@@ -1,4 +1,4 @@
 CI_Smarty_3.1.13
 ================
 
-Smarty 3.1.13 integration with CodeIgniter 2 2 (should be easily upgradable)
+Smarty 3.1.13 integration with CodeIgniter 2 (should be easily upgradable)
